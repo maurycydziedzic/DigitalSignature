@@ -1,7 +1,8 @@
 # DigitalSignature
 Digital signature code in python 
-Usage of signing machine: in terminal type: python/py .\Digital_Signature \"filename.(extension)"
 # Warrning I have tested this script only on txt and docx files.
+# In this repo you can also download my TrueRNG.bin which I have generated via my TRNG code
+Usage of signing machine: in terminal type: python/py .\Digital_Signature \"filename.(extension)"
 You will get three new files:
 1. private_key.pem
 2. public_key.pem
