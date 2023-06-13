@@ -2,6 +2,7 @@
 Digital signature code in python 
 # Warrning I have tested this script only on txt and docx files.
 # In this repo you can also download my TrueRNG.bin which I have generated via my TRNG code
+In the directory where the code is located must be a bin file which should be Truly RNG to make our signed file more secure. The bin file should be named "TrueRNG.bin"
 Usage of signing machine: in terminal type: python/py .\Digital_Signature \"filename.(extension)"
 You will get three new files:
 1. private_key.pem
